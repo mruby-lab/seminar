@@ -1,5 +1,9 @@
 # 2024/03 LNBTI
 
+- 2024/03/04~2024/03/05
+- [LNBTI(Lanka Nippon Biztech Institute)](https://lnbti.lk/), Maharagama, Sri Lanka
+
+
 ## IoT Workshop
 
 - [mruby/c development environment](https://mrubyc-ide.ddns.net/editor/rboard)
@@ -10,4 +14,6 @@
 ## AI seminar
 
 - [AI seminar slide(PDF)](./AI_Basics.pdf)
+
+## IoT seminar
 
