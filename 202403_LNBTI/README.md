@@ -7,3 +7,7 @@
 - [sample programs](./source_codes.md)
 - [GPIO Pins](https://yoshihiroogura.github.io/RBoardDocument/image/PIC32_DIP_3.png)
 
+## AI seminar
+
+- [AI seminar slide(PDF)](./AI_Basics.pdf)
+
