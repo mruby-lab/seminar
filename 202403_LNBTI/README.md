@@ -17,3 +17,4 @@
 
 ## IoT seminar
 
+- [IoT seminat slide(PDF)](./IoT_Basics.pdf)
