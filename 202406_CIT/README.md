@@ -1,7 +1,7 @@
 # 2024/03 CIT
 
 - 2024/06/24~2024/06/26
-- [Chennai Institute of Technology](https://*****/), Chennai, India
+- [Chennai Institute of Technology](https://www.citchennai.edu.in/), Chennai, India
 
 ## IoT Workshop
 
