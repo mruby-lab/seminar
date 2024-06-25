@@ -54,7 +54,8 @@ end
 1. Control the LED on the breadboard.<br>
 Pin number for PWM is passed by parameter of `PWM.new`.
 
+<hr/>
 
-[**Move to next**](./2nd_circuit.md)
+[**Move to next**](./4th_sensor.md)
 
 [**Back to top**](./README.md)
