@@ -11,3 +11,7 @@
 1. [External circuit](./2nd_circuit.md)
 1. [PWM](./3rd_pwm.md)
 1. [Using a Sensor](./4th_sensor.md)
+
+## Feedback
+
+https://docs.google.com/forms/d/e/1FAIpQLSfHuW_DnYRh998PZSbtUeqA_BT0W87lrvo6AYeZ87feOrZ5jA/viewform?usp=sf_link
