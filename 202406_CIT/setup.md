@@ -31,11 +31,13 @@ If you need more parts: Ask me.
 
 ## Access to Development site
 
-Access to [smalruby](https://ceres.epi.it.matsue-ct.ac.jp/smt2024/).
+Access to [smalruby](https://ceres.epi.it.matsue-ct.ac.jp/smt2024/) https://ceres.epi.it.matsue-ct.ac.jp/smt2024/
 
 If necessary, change language as follows:<br>
 ![language](./images/lang.jpg)
 
 <hr/>
+
+[**Move to next**](./1st_program.md)
 
 [**Back to top**](./README.md)

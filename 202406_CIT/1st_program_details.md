@@ -13,6 +13,14 @@ First select `input` or `output` for GPIO. This is the 1st row of blocks. Set LE
 
 Then blink an LED forever, use the forever block and turn LED1 on and off with a short wait. LED1 is a green LED.
 
+## mruby program
+
+Your implemented blocks are automatically converted to mruby source code.
+
+You can see the converted code by clicking on the "Ruby" tab.
+
+![mruby code](./images/mruby_code.png)
+
 ## Note
 
 Now we control real device! 
@@ -32,5 +40,7 @@ Wait time accept floting point number.
 
 
 <hr/>
+
+[**Move to next**](./2nd_circuit.md)
 
 [**Back to top**](./README.md)
