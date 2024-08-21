@@ -72,6 +72,6 @@ end
 
 <hr/>
 
-<!-- [**Move to next**](./3rd_pwm.md) -->
+[**Move to next**](./3rd_pwm.md)
 
 [**Back to top**](./README.md)

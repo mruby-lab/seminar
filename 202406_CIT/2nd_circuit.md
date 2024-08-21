@@ -68,8 +68,6 @@ end
 
 ## Practice
 
-1. Blink two LEDs on the breadboard.
-
 <hr/>
 
 [**Move to next**](./3rd_pwm.md)
