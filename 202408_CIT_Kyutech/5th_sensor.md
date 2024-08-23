@@ -14,7 +14,7 @@ The document of the sensor is: https://www.mouser.jp/datasheet/2/268/MCP970X_Fam
 
 The output voltage is by following equation.
 
-$ V_{out}[V] = T[{}^\circ C] \times 0.0195 + 0.4 $
+![alt text](./images/equ.png)
 
 ## Practice
 
