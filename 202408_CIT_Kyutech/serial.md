@@ -1,6 +1,6 @@
 # Serial Communication
 
-## setup python
+## setup pyserial
 
 - Install `pyserial` into your environment.
     - Serial communication lib.
