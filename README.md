@@ -1,6 +1,6 @@
 # seminar
 
-- [2024/03 朝倉高校](./202410_AsakuraHighSchool/README.md)
+- [2024/11 朝倉高校](./202410_AsakuraHighSchool/README.md)
 
 ## Past seminars
 
