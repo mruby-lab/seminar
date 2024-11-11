@@ -44,3 +44,10 @@ LED1 の電圧を設定します。1 はLED1の電圧を、高い電圧に設定
 - 違う色のLEDを点滅させてください。
 - 2つのLEDを交互に点滅させてください。
 
+<hr/>
+
+
+[**Move to next**](./2nd_circuit.md)
+
+
+[**Back to top**](./README.md)

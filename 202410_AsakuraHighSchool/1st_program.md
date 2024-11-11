@@ -52,6 +52,5 @@ RBoardマイコンの緑色のLEDが1秒間隔で点滅していれば、正し�
 
 [**Move to next**](./1st_program_details.md)
 
-[**Move to next**](./2nd_circuit.md)
 
 [**Back to top**](./README.md)

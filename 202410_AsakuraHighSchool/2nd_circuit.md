@@ -51,28 +51,23 @@ LEDのピンの長さと電流の流れる向きは、図のようになって�
 
 ## LED点滅のプログラム
 
-<font color="red">**Note that once you change your Ruby code in the Ruby tab, you cannot return to the Block Programming tab. If necessary, save your block program to your local disk.**</font>
 
-Move to the Ruby tab and write mruby code.
+画面左下の `拡張機能を追加` ![Add Extension](./images/extention.png) をクリックして表示された拡張機能から、`マイコン（汎用）` を選択します。
 
-- Change the pin number to 15. The pin number is in the GPIO.new parameter.
-- Add setmode function to set led0(pin15) to output mode.
+![マイコン（汎用）](./images/board_block.png)
 
-```Ruby
-led0 = GPIO.new( 15 )
-led0.setmode(0)
-loop do
-  led0.write(1)
-  sleep(1)
-  led0.write(0)
-  sleep(1)
-end
-```
+ここでは、Pin15などのピンを使います。このようなピンは、GPIO(General Purpose Input and Output)と呼ばれます。
 
+次のようなプログラムを作成します。赤枠で示した部分の値を設定しておきます。
 
-## Practice
+![GPIOプログラム](./images/gpio_program.png)
 
-1. Blink two LEDs on the breadboard.
+このプログラムにより、作成したLEDの回路を動かすことができます。
+
+# 練習
+
+- GPIOピンを使って、2つのLEDを交互に点滅させてみてください。
+- マイコンボード上のLEDもGPIOで制御できます。4つのLEDのピンは、0, 1, 5, 6 になっています。<br>GPIOを使って、マイコンボード上のLEDを点滅させてみてください。
 
 <hr/>
 
