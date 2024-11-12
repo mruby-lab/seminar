@@ -29,7 +29,7 @@
 
 以下のリンクから、開発環境にアクセスできます。
 
-[開発環境のリンク](https://ceres.epi.it.matsue-ct.ac.jp/smt2024/) https://ceres.epi.it.matsue-ct.ac.jp/smt2024/
+- 開発環境のリンク: <a href="https://ceres.epi.it.matsue-ct.ac.jp/smt/" target="_blank">https://ceres.epi.it.matsue-ct.ac.jp/smt/</a>
 
 <hr/>
 
