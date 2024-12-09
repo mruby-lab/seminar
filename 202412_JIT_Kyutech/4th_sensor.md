@@ -17,7 +17,6 @@ The following block program measures the brightness (voltage of P20).
 
 ![cds block program](/images/adc_program.png)
 
-
 ```Ruby
 adc20 = ADC.new( 20 )
 loop do
@@ -29,6 +28,7 @@ end
 
 - The `read` function reads the voltage from the ADC.
 - The `puts` function can output the variable `var1` to the console.
+- You can see the P20 voltage.
 
 ## Practice
 
