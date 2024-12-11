@@ -6,6 +6,8 @@
 
 In piezoelectric device, the thickness of the device changes when voltage is applied. So the circuit to drive a piezoelectric device is simple.
 
+![piezo](/images/piezo_device.png)
+
 ![piezo circuit](/images/piezo.drawio.png)
 
 ## Make a sound 
