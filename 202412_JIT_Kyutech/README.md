@@ -11,6 +11,4 @@
 1. [External circuit](./2nd_circuit.md)
 1. [PWM](./3rd_pwm.md)
 1. [Using sensor, ADC](./4th_sensor.md)
-<!---
-1. [Using temperature sensor](./5th_sensor.md)
--->
+1. [Make a sound](./5th_sound.md)
