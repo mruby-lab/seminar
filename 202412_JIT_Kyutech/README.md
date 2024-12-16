@@ -12,3 +12,6 @@
 1. [PWM](./3rd_pwm.md)
 1. [Using sensor, ADC](./4th_sensor.md)
 1. [Make a sound](./5th_sound.md)
+1. [Temperature sensor](./6th_sensor.md)
+
+## Project

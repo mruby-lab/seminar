@@ -51,5 +51,6 @@ end
 
 <hr/>
 
+[**Move to next**](./6th_sensor.md)
 
 [**Back to top**](./README.md)
