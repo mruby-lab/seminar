@@ -57,8 +57,8 @@ No current flows in the opposite direction, so the LED will not work.
 1. Blink two LEDs on the breadboard.
 
 <hr/>
-<!--
-[**Move to next**](./3rd_pwm.md)
--->
+
+[**Move to next**](./4th_sensor.md)
+
 
 [**Back to top**](./README.md)
