@@ -14,5 +14,5 @@
 
 <hr>
 
-- <a href="https://ceres.epi.it.matsue-ct.ac.jp/smt/" target="_blank">開発環境のリンク</a>
+<a href="https://ceres.epi.it.matsue-ct.ac.jp/smt/" target="_blank" rel="noopener noreferrer">【開発環境を開く】</a>
 
