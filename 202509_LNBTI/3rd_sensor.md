@@ -18,7 +18,7 @@ The resistance value of the CdS sensor varies with brightness. The following cir
 
 ADC (Analog Digital Converter) is a device that can measure the connected input voltage.
 
-The following block program measures the brightness (voltage of P20).
+The following block program measures the brightness (voltage of A0).
 
 ![cds block program](/images/adc_program_stm.png)
 
