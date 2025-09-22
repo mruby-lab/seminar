@@ -4,9 +4,11 @@ Let's implement our own circuit. Here we control an LED with the microcontroller
 
 ## LED
 
-LED stands for Light Emitting Diode. It emits light when current flows through the LED. However, we must keep the maximum current for LED.
+LED stands for Light Emitting Diode. It emits light when current flows through the LED. 
 
-The simplest circuit is as follows, but this is the wrong circuit!
+The current always flows from higher voltage to lower voltage. `Vdd` is the higher voltage pin and `GND` is the lower voltage pin.
+
+The simplest circuit is as follows, but **this is wrong circuit!**
 
 ![wrong circuit](/images/curcuit_1.drawio.png)
 
@@ -47,9 +49,9 @@ No current flows in the opposite direction, so the LED will not work.
 
 ## LED blinking code
 
-- To control LED circuit, use GPIO block in `microcom` extension.
+- To control LED circuit, use GPIO block in `Microcom` extension.
 
-![alt text](/images/use_gpio_block.png)
+![program using pin 15](/images/use_gpio_block.png)
 
 
 ## Practice
@@ -58,7 +60,7 @@ No current flows in the opposite direction, so the LED will not work.
 
 <hr/>
 
-[**Move to next**](./4th_sensor.md)
+[**Move to next**](./3rd_sensor.md)
 
 
 [**Back to top**](./README.md)
