@@ -34,6 +34,6 @@
 - https://ceres.epi.it.matsue-ct.ac.jp/smt/<br>
   右クリックで「新しいタブ」または「新しいウィンドウ」で開く
 
-[**Move to next**](./step1.md)
+[**Move to next**](./step2.md)
 
 [**Back to top**](./README.md)
