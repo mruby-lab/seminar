@@ -66,5 +66,6 @@ LEDのピンの長さと電流の流れる向きは、図のようになって�
 
 - GPIOピンを使って、2つのLEDを交互に点滅させてみてください。
 
+[**Move to next**](./step4.md)
 
 [**Back to top**](./README.md)
