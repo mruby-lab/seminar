@@ -1,6 +1,6 @@
 # seminar
 
-- [2025/10 久留米高校](./202510_KurumeHighSchool/README.md)
+- [2025/11 専門学校九州テクノカレッジ](./202511_KyushuTechnoCollege/README.md)
 
 ## Past seminars
 
@@ -13,4 +13,6 @@
 - [2025/07 東稜高校](./202507_ToryoHighSchool/README.md)
 - [2025/09 LNBTI](./202509_LNBTI/README.md)
 - [2025/10 Ruby協 Workshop](./202510_Ruby-b/README.md)
+- [2025/10 久留米高校](./202510_KurumeHighSchool/README.md)
+
 
