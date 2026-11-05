@@ -6,4 +6,5 @@
 
 ## IoT Workshop
 
+1. [setup](./setup.md)
 1. [Try Block Programming](./1st_program.md)
