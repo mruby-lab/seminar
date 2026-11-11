@@ -11,7 +11,7 @@ With RBoard, you just connect cables between RBoard and your laptop. Then you ca
 ## Check items
 
 - RBoard<br>
-![RBoard](/images/rboard.jpg)
+![Microcontroller board](/images/Nucleo-F401RE.png)
 - USB Cable<br>
 ![Cable](/images/cable.jpg)
 - Electrical Parts<br>
