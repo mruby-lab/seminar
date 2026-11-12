@@ -8,3 +8,6 @@
 
 1. [setup](./setup.md)
 1. [Try Block Programming](./1st_program.md)
+1. [Circuit](./2nd_circuit.md)
+1. [Sensor](./3rd_sensor.md)
+
